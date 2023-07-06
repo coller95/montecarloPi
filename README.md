@@ -1,4 +1,4 @@
 # montecarloPi
-simple script to to calc pi using monte carlo algo
+simple script to calc pi using monte carlo simulation
 
 ![plot](./plot.png)
